@@ -1,1 +1,1 @@
-# graphql-project
+# GraphQL / Relay project
